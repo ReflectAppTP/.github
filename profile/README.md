@@ -17,7 +17,11 @@
 ### Ссылки на сервисы
 - [Figma-дизайн](https://www.figma.com/design/dE0KhQ4hfYTnrL2yFSSj7Z/Ui-Kit-Reflect?node-id=154-6359&t=fXgTX82SnaZc87E6-0)
 - [UI-kit](https://www.figma.com/design/dE0KhQ4hfYTnrL2yFSSj7Z/Ui-Kit-Reflect?node-id=0-1&p=f&t=fXgTX82SnaZc87E6-0)
-- [YouGile-задачи и управление проектом](https://ru.yougile.com/team/e00795d0b05c/Reflect) 
+- [YouGile-задачи и управление проектом](https://ru.yougile.com/team/e00795d0b05c/Reflect).
+  
+  Данные для входа в YouGile: 
+  Почта: ``` dmitriyabdullaev@yandex.ru ```
+  Пароль: ``` 12345qwert ```
 - [Roadmap](https://github.com/ReflectAppTP/documentation/blob/main/Roadmap%20Reflect.pdf)
 - [Предпроектное исследование.pdf](https://github.com/ReflectAppTP/documentation/blob/main/Предпроектное%20исследование.pdf)
 
