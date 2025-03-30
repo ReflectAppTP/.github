@@ -22,6 +22,15 @@
   Данные для входа в YouGile: 
   Почта: ``` dmitriyabdullaev@yandex.ru ```
   Пароль: ``` 12345qwert ```
+  Инструкция для входа в YouGile:
+  1. Ввели данные для входа.
+  2. Если попали на страницу "Reflect TP", то вход выполнен успешно.
+  3. Иначе, если вы оказались на странице "Тест", то вам нужно сменить компанию на "Reflect TP" по кнопке "Сменить компанию" в левом нижнем углу, подсказка на следующем скрине:
+  ![image](https://github.com/user-attachments/assets/68ae3942-ca50-4037-bc52-8d0ee3bcfd07)
+  4. После проверки, просьба, выйти из аккаунта, нажав на раздел "Мой профиль" и внутри на кнопку "Выйти из аккаунта":
+![image](https://github.com/user-attachments/assets/370af7f5-85a4-4675-9fcb-f9582603dbef)
+
+
 - [Roadmap](https://github.com/ReflectAppTP/documentation/blob/main/Roadmap%20Reflect.pdf)
 - [Предпроектное исследование.pdf](https://github.com/ReflectAppTP/documentation/blob/main/Предпроектное%20исследование.pdf)
 
