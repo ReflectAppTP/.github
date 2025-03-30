@@ -50,7 +50,7 @@
 - [Видеопрезентация технического задания](https://rutube.ru/video/cb02126a2cd47c4f808d3bd869e003fa/)
 
 ### Проверили мы:
-Чек лист 2 команды 7 группы: [чек лист.pdf](https://github.com/ReflectAppTP/documentation/blob/main/%D0%A7%D0%B5%D0%BA%20%D0%BB%D0%B8%D1%81%D1%82)
+Чек лист 2 команды 7 группы: [чек лист.pdf](https://github.com/ReflectAppTP/documentation/blob/main/%D0%A7%D0%B5%D0%BA%20%D0%BB%D0%B8%D1%81%D1%82.pdf)
 
 ### Проверяли нас:
 - 6 группа 4 команда: [гит](https://github.com/Mixing-Visionary/Docs) [чек лист](https://github.com/Mixing-Visionary/Docs/blob/docs-deploy/CheckList/Checklist.pdf)
