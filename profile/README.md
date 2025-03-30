@@ -48,3 +48,9 @@
 
 ### Видео защиты проекта
 - [Видеопрезентация технического задания](https://rutube.ru/video/cb02126a2cd47c4f808d3bd869e003fa/)
+
+### Проверяли нас:
+- 6 группа 4 команда: [гит с ссылкой на чек лист](https://github.com/Mixing-Visionary/Docs)
+- 4 группа 2 спец команда: [гит с ссылкой на чек лист](https://github.com/anya-ananasss/Defense-Discover)
+- 6 группа 3 команда: [гит с ссылкой на чек лист](https://github.com/VisualMusic-VSU/visualmusic)
+- 7 группа 3 команда: [гит с ссылкой на чек лист](https://github.com/Vlad-gw/task-planner-app)
