@@ -17,20 +17,7 @@
 ### Ссылки на сервисы
 - [Figma-дизайн](https://www.figma.com/design/dE0KhQ4hfYTnrL2yFSSj7Z/Ui-Kit-Reflect?node-id=154-6359&t=fXgTX82SnaZc87E6-0)
 - [UI-kit](https://www.figma.com/design/dE0KhQ4hfYTnrL2yFSSj7Z/Ui-Kit-Reflect?node-id=0-1&p=f&t=fXgTX82SnaZc87E6-0)
-- [YouGile-задачи и управление проектом](https://ru.yougile.com/team/e00795d0b05c/Reflect).
-  
-  Данные для входа в YouGile: 
-  Почта: ``` dmitriyabdullaev@yandex.ru ```
-  Пароль: ``` 12345qwert ```
-  Инструкция для входа в YouGile:
-  1. Ввели данные для входа.
-  2. Если попали на страницу "Reflect TP", то вход выполнен успешно.
-  3. Иначе, если вы оказались на странице "Тест", то вам нужно сменить компанию на "Reflect TP" по кнопке "Сменить компанию" в левом нижнем углу, подсказка на следующем скрине:
-  ![image](https://github.com/user-attachments/assets/68ae3942-ca50-4037-bc52-8d0ee3bcfd07)
-  4. После проверки, просьба, выйти из аккаунта, нажав на раздел "Мой профиль" и внутри на кнопку "Выйти из аккаунта":
-![image](https://github.com/user-attachments/assets/370af7f5-85a4-4675-9fcb-f9582603dbef)
-
-
+- [YouGile-задачи и управление проектом](https://ru.yougile.com/board/vl6wh1zei692).
 - [Roadmap](https://github.com/ReflectAppTP/documentation/blob/main/Roadmap%20Reflect.pdf)
 - [Предпроектное исследование.pdf](https://github.com/ReflectAppTP/documentation/blob/main/Предпроектное%20исследование.pdf)
 
