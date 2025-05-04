@@ -25,6 +25,7 @@
 - [Техническое задание.docx](https://github.com/ReflectAppTP/documentation/blob/main/Техническое%20задание.docx)
 - [Техническое задание.pdf](https://github.com/ReflectAppTP/documentation/blob/main/Техническое%20задание.pdf)
 - [API документация ](https://github.com/ReflectAppTP/documentation/blob/main/Схема%20API/reflect%20API.yaml)
+- [Тестовая документация](https://drive.google.com/drive/u/0/folders/1A94hOkDlxu2A1HoNl8z5ybGdHt92-YMH)
 - [Диаграммы ](https://github.com/ReflectAppTP/documentation/tree/main/диаграммы)
 - Курсовая работа (скоро)
 
