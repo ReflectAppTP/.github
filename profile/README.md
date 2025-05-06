@@ -56,7 +56,18 @@
 ## ЭТАП 2. MVP
 - [PM отчет](https://docs.google.com/document/d/158SYb9a0hMTGif-SsDg0r8ahA-5eV3GqmLOf_YFtgDk/edit?tab=t.0)
 - [Отчет по тестированию](https://docs.google.com/document/d/1T1rQeD4z-fd78xVRev5bXdKbnloeU7f8i0KVKfddiQM/edit?tab=t.0)
-- [MVP версия приложения.apk](https://github.com/ReflectAppTP/documentation/blob/main/app-reflect-MVP.apk)
+
+### MVP
+[MVP версия приложения.apk](https://github.com/ReflectAppTP/documentation/blob/main/app-reflect-MVP.apk)
+ Тестовые данные для входа:
+- **Почта**: `test@test.ru`
+- **Пароль**: `qwerty`
+
+Демонстрация пользовательских сценариев:
+- [Вход](https://github.com/ReflectAppTP/documentation/blob/main/%D0%94%D0%B5%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%20%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B5%D0%B2/%D0%92%D1%85%D0%BE%D0%B4.mp4)
+- [Регистрация](https://github.com/ReflectAppTP/documentation/blob/main/%D0%94%D0%B5%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%20%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B5%D0%B2/%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F.mp4)
+- [Создание записей](https://github.com/ReflectAppTP/documentation/blob/main/%D0%94%D0%B5%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%20%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B5%D0%B2/%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%B5%D0%BA.mp4)
+---
 ### Проверили мы:
 7 группа 2 команда: [чек лист MVP.pdf]()
 
