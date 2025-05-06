@@ -11,7 +11,7 @@
 - [Максим Хрячков](https://github.com/Korsat): Бизнес-аналитик  
 - [Трегубова Арина](https://github.com/tregubovaAA): Дизайнер
 
----
+
 ## Полезные ссылки
 ### Ссылки на сервисы
 - [Figma-дизайн](https://www.figma.com/design/dE0KhQ4hfYTnrL2yFSSj7Z/Ui-Kit-Reflect?node-id=154-6359&t=fXgTX82SnaZc87E6-0)
@@ -53,7 +53,7 @@
 - 7 группа 3 команда: [гит](https://github.com/Vlad-gw/task-planner-app) [чек лист ТЗ](https://github.com/Vlad-gw/task-planner-app/blob/main/documentation/Punctualis%20%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%201.pdf)
 ---
 
----
+
 ## ЭТАП 2. MVP
 - [PM отчет](https://docs.google.com/document/d/158SYb9a0hMTGif-SsDg0r8ahA-5eV3GqmLOf_YFtgDk/edit?tab=t.0)
 - [Отчет по тестированию](https://docs.google.com/document/d/1T1rQeD4z-fd78xVRev5bXdKbnloeU7f8i0KVKfddiQM/edit?tab=t.0)
@@ -76,6 +76,6 @@
 ### Проверяли нас:
 - 6 группа 4 команда: [гит](https://github.com/Mixing-Visionary/Docs) [чек лист MVP](https://github.com/Mixing-Visionary/Docs/blob/master/CheckList/Checklist_2.pdf)
 - 4 группа 2 спец команда: [гит](https://github.com/anya-ananasss/Defense-Discover)
-- 6 группа 3 команда: [гит](https://github.com/VisualMusic-VSU/visualmusic) [чек лист MVP]([https://github.com/VisualMusic-VSU/visualmusic](https://github.com/VisualMusic-VSU/visualmusic/blob/main/docs/check/second-stage-check.pdf))
+- 6 группа 3 команда: [гит](https://github.com/VisualMusic-VSU/visualmusic) [чек лист MVP](https://github.com/VisualMusic-VSU/visualmusic/blob/main/docs/check/second-stage-check.pdf)
 - 7 группа 3 команда: [гит](https://github.com/Vlad-gw/task-planner-app)
 ---
