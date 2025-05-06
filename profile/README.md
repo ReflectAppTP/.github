@@ -23,10 +23,10 @@
 ### Документация проекта
 - [Техническое задание.docx](https://github.com/ReflectAppTP/documentation/blob/main/Техническое%20задание.docx)
 - [Техническое задание.pdf](https://github.com/ReflectAppTP/documentation/blob/main/Техническое%20задание.pdf)
-- [API документация ](https://github.com/ReflectAppTP/documentation/blob/main/Схема%20API/reflect%20API.yaml)
+- **Update** [API документация ](https://github.com/ReflectAppTP/documentation/blob/main/Схема%20API/reflect%20API.yaml)
 - [Диаграммы ](https://github.com/ReflectAppTP/documentation/tree/main/диаграммы)
 - **New** [Тестовая документация](https://drive.google.com/drive/u/0/folders/1A94hOkDlxu2A1HoNl8z5ybGdHt92-YMH)
-- [Документация CI/CD пайплайна](https://github.com/ReflectAppTP/documentation/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20CICD.pdf)
+- **New** [Документация CI/CD пайплайна](https://github.com/ReflectAppTP/documentation/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20CICD.pdf)
 - Курсовая работа (скоро)
 
 ### Презентации проекта
@@ -56,6 +56,7 @@
 ## ЭТАП 2. MVP
 - [PM отчет](https://docs.google.com/document/d/158SYb9a0hMTGif-SsDg0r8ahA-5eV3GqmLOf_YFtgDk/edit?tab=t.0)
 - [Отчет по тестированию](https://docs.google.com/document/d/1T1rQeD4z-fd78xVRev5bXdKbnloeU7f8i0KVKfddiQM/edit?tab=t.0)
+- [MVP версия приложения.apk](https://github.com/ReflectAppTP/documentation/blob/main/app-reflect-MVP.apk)
 ### Проверили мы:
 7 группа 2 команда: [чек лист MVP.pdf]()
 
