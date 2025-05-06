@@ -66,16 +66,16 @@
 - **Пароль**: `qwerty`
 
 Демонстрация пользовательских сценариев:
-- [Вход](https://github.com/ReflectAppTP/documentation/blob/main/%D0%94%D0%B5%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%20%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B5%D0%B2/%D0%92%D1%85%D0%BE%D0%B4.mp4)
-- [Регистрация](https://github.com/ReflectAppTP/documentation/blob/main/%D0%94%D0%B5%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%20%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B5%D0%B2/%D1%80%D0%B5%D0%B3%D0%B8%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F.mp4)
-- [Создание записей](https://github.com/ReflectAppTP/documentation/blob/main/%D0%94%D0%B5%D0%BC%D0%BE%D0%BD%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F%20%D1%81%D1%86%D0%B5%D0%BD%D0%B0%D1%80%D0%B8%D0%B5%D0%B2/%D0%A1%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BA%D0%B0%D1%80%D1%82%D0%BE%D1%87%D0%B5%D0%BA.mp4)
+- [Вход](https://drive.google.com/drive/u/0/folders/1RSSufMVU_hdSTfnUaAuYMshCEtTOdr3p)
+- [Регистрация](https://drive.google.com/drive/u/0/folders/1RSSufMVU_hdSTfnUaAuYMshCEtTOdr3p)
+- [Создание записей](https://drive.google.com/drive/u/0/folders/1RSSufMVU_hdSTfnUaAuYMshCEtTOdr3p)
 ---
 ### Проверили мы:
-7 группа 2 команда: [чек лист MVP.pdf]()
+7 группа 2 команда: [чек лист MVP.pdf](https://github.com/ReflectAppTP/documentation/blob/main/%D0%A7%D0%B5%D0%BA%20%D0%9B%D0%B8%D1%81%D1%82%202%20MVP.pdf)
 
 ### Проверяли нас:
-- 6 группа 4 команда: [гит](https://github.com/Mixing-Visionary/Docs) [чек лист MVP]()
-- 4 группа 2 спец команда: [гит](https://github.com/anya-ananasss/Defense-Discover) [чек лист MVP]()
-- 6 группа 3 команда: [гит](https://github.com/VisualMusic-VSU/visualmusic) [чек лист MVP]()
-- 7 группа 3 команда: [гит](https://github.com/Vlad-gw/task-planner-app) [чек лист MVP]()
+- 6 группа 4 команда: [гит](https://github.com/Mixing-Visionary/Docs) [чек лист MVP](https://github.com/Mixing-Visionary/Docs/blob/master/CheckList/Checklist_2.pdf)
+- 4 группа 2 спец команда: [гит](https://github.com/anya-ananasss/Defense-Discover)
+- 6 группа 3 команда: [гит](https://github.com/VisualMusic-VSU/visualmusic) [чек лист MVP]([https://github.com/VisualMusic-VSU/visualmusic](https://github.com/VisualMusic-VSU/visualmusic/blob/main/docs/check/second-stage-check.pdf))
+- 7 группа 3 команда: [гит](https://github.com/Vlad-gw/task-planner-app)
 ---
