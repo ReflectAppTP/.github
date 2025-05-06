@@ -75,7 +75,7 @@
 
 ### Проверяли нас:
 - 6 группа 4 команда: [гит](https://github.com/Mixing-Visionary/Docs) [чек лист MVP](https://github.com/Mixing-Visionary/Docs/blob/master/CheckList/Checklist_2.pdf)
-- 4 группа 2 спец команда: [гит](https://github.com/anya-ananasss/Defense-Discover)
+- 4 группа 2 спец команда: [гит](https://github.com/anya-ananasss/Defense-Discover) [чек лист MVP](https://github.com/anya-ananasss/Defense-Discover/blob/main/Documentation/%D0%A2%D0%9F.%20%D0%A7%D0%B5%D0%BA%D0%BB%D0%B8%D1%81%D1%82%202%20%D1%8D%D1%82%D0%B0%D0%BF.pdf)
 - 6 группа 3 команда: [гит](https://github.com/VisualMusic-VSU/visualmusic) [чек лист MVP](https://github.com/VisualMusic-VSU/visualmusic/blob/main/docs/check/second-stage-check.pdf)
 - 7 группа 3 команда: [гит](https://github.com/Vlad-gw/task-planner-app)
 ---
