@@ -26,6 +26,7 @@
 - [API документация ](https://github.com/ReflectAppTP/documentation/blob/main/Схема%20API/reflect%20API.yaml)
 - [Диаграммы ](https://github.com/ReflectAppTP/documentation/tree/main/диаграммы)
 - **New** [Тестовая документация](https://drive.google.com/drive/u/0/folders/1A94hOkDlxu2A1HoNl8z5ybGdHt92-YMH)
+- [Документация CI/CD пайплайна](https://github.com/ReflectAppTP/documentation/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20CICD.pdf)
 - Курсовая работа (скоро)
 
 ### Презентации проекта
