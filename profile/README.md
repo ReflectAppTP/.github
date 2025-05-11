@@ -59,7 +59,7 @@
 - [Отчет по тестированию](https://docs.google.com/document/d/1T1rQeD4z-fd78xVRev5bXdKbnloeU7f8i0KVKfddiQM/edit?tab=t.0)
 
 ### MVP
-[MVP версия приложения.apk](https://github.com/ReflectAppTP/documentation/blob/main/app-reflect-MVP.apk)
+[MVP версия приложения.apk](https://github.com/ReflectAppTP/documentation/blob/main/releases/MVP%20release/app-release.apk)
 
  Тестовые данные для входа (При желании можете создать новый аккаунт):
 - **Почта**: `test@test.ru`
