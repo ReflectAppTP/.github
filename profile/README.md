@@ -18,16 +18,19 @@
 - [UI-kit](https://www.figma.com/design/dE0KhQ4hfYTnrL2yFSSj7Z/Ui-Kit-Reflect?node-id=0-1&p=f&t=fXgTX82SnaZc87E6-0)
 - [YouGile-задачи и управление проектом](https://ru.yougile.com/board/vl6wh1zei692).
 - [Roadmap](https://github.com/ReflectAppTP/documentation/blob/main/Roadmap%20Reflect.pdf)
-- [Предпроектное исследование.pdf](https://github.com/ReflectAppTP/documentation/blob/main/Предпроектное%20исследование.pdf)
 
 ### Документация проекта
-- [Техническое задание.docx](https://github.com/ReflectAppTP/documentation/blob/main/Техническое%20задание.docx)
-- [Техническое задание.pdf](https://github.com/ReflectAppTP/documentation/blob/main/Техническое%20задание.pdf)
-- **Update** [API документация ](https://github.com/ReflectAppTP/documentation/blob/main/Схема%20API/reflect%20API.yaml)
+- [Предпроектное исследование.pdf](https://github.com/ReflectAppTP/documentation/blob/main/Предпроектное%20исследование.pdf)
+- [Техническое задание.docx (старая версия)](https://github.com/ReflectAppTP/documentation/blob/main/Техническое%20задание.docx)
+- [Техническое задание.pdf (старая версия)](https://github.com/ReflectAppTP/documentation/blob/main/Техническое%20задание.pdf)
+- [Техническое задание.docx (исправленная версия)](https://github.com/ReflectAppTP/documentation/blob/main/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20Final.docx)
+- [Техническое задание.pdf (исправленная версия)](https://github.com/ReflectAppTP/documentation/blob/main/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20Final.pdf)
+- [Список исправлений в ТЗ](https://github.com/ReflectAppTP/documentation/blob/main/C%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%B5%D0%B3%D0%BE%20%D0%B2%20%D0%A2%D0%97.txt)
+- [API документация ](https://github.com/ReflectAppTP/documentation/blob/main/Схема%20API/reflect%20API.yaml)
 - [Диаграммы ](https://github.com/ReflectAppTP/documentation/tree/main/диаграммы)
-- **New** [Тестовая документация](https://drive.google.com/drive/u/0/folders/1A94hOkDlxu2A1HoNl8z5ybGdHt92-YMH)
-- **New** [Документация CI/CD пайплайна](https://github.com/ReflectAppTP/documentation/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20CICD.pdf)
-- **New** [База Данных Reflect](https://github.com/ReflectAppTP/documentation/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20Reflect%20Postgres.pdf)
+- [Тестовая документация](https://drive.google.com/drive/u/0/folders/1A94hOkDlxu2A1HoNl8z5ybGdHt92-YMH)
+- [Документация CI/CD пайплайна](https://github.com/ReflectAppTP/documentation/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20CICD.pdf)
+- [База Данных Reflect](https://github.com/ReflectAppTP/documentation/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20Reflect%20Postgres.pdf)
 - Курсовая работа (скоро)
 
 ### Презентации проекта
