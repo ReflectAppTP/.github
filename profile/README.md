@@ -21,28 +21,26 @@
 
 ### Документация проекта
 - [Предпроектное исследование.pdf](https://github.com/ReflectAppTP/documentation/blob/main/Предпроектное%20исследование.pdf)
-- [Техническое задание.docx (старая версия)](https://github.com/ReflectAppTP/documentation/blob/main/Техническое%20задание.docx)
-- [Техническое задание.pdf (старая версия)](https://github.com/ReflectAppTP/documentation/blob/main/Техническое%20задание.pdf)
+
 - [Техническое задание.docx (исправленная версия)](https://github.com/ReflectAppTP/documentation/blob/main/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20Final.docx)
 - [Техническое задание.pdf (исправленная версия)](https://github.com/ReflectAppTP/documentation/blob/main/%D0%A2%D0%B5%D1%85%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5%20%D0%B7%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20Final.pdf)
 - [Список исправлений в ТЗ](https://github.com/ReflectAppTP/documentation/blob/main/C%D0%BF%D0%B8%D1%81%D0%BE%D0%BA%20%D0%B8%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D0%B5%D0%B3%D0%BE%20%D0%B2%20%D0%A2%D0%97.txt)
-- [API документация ](https://github.com/ReflectAppTP/documentation/blob/main/Схема%20API/reflect%20API.yaml)
+
 - [Диаграммы ](https://github.com/ReflectAppTP/documentation/tree/main/диаграммы)
+  
 - [Тестовая документация](https://drive.google.com/drive/u/0/folders/1A94hOkDlxu2A1HoNl8z5ybGdHt92-YMH)
-- [Документация CI/CD пайплайна](https://github.com/ReflectAppTP/documentation/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20CICD.pdf)
-- [База Данных Reflect](https://github.com/ReflectAppTP/documentation/blob/main/%D0%94%D0%BE%D0%BA%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20Reflect%20Postgres.pdf)
-- Курсовая работа (скоро)
+
+- **New** [Курсовая работа](https://github.com/ReflectAppTP/documentation/blob/main/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0.pdf)
 
 ### Презентации проекта
 
 - [Презентация технического задания.pdf](https://github.com/ReflectAppTP/documentation/blob/main/Презентация%20ТЗ%20.pdf)
-- [Презентация технического задания.pptx](https://github.com/ReflectAppTP/documentation/blob/main/Презентация%20ТЗ%20.pptx)
-- **New** [Презентация MVP.pdf](https://github.com/ReflectAppTP/documentation/blob/main/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20MVP.pdf)
-- **New** [Презентация MVP.pptx](https://github.com/ReflectAppTP/documentation/blob/main/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20MVP.pptx)
+- [Презентация MVP.pdf](https://github.com/ReflectAppTP/documentation/blob/main/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20MVP.pdf)
+
 
 ### Видео защиты проекта
 - [Видеопрезентация технического задания](https://rutube.ru/video/cb02126a2cd47c4f808d3bd869e003fa/)
-- **New** [Видеопрезентация MVP проекта](https://rutube.ru/video/private/1b55b60b805ccd2587185c9fccc6d3e3/?p=xaIL8gsUByUSYUk-QMfVHw)
+- [Видеопрезентация MVP проекта](https://rutube.ru/video/private/1b55b60b805ccd2587185c9fccc6d3e3/?p=xaIL8gsUByUSYUk-QMfVHw)
 
 ---
 ## ЭТАП 1. ПРОЕКТИРОВАНИЕ ТЗ
