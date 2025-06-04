@@ -21,9 +21,13 @@
 ---
 
 ### ПРИЛОЖЕНИЕ 
- Тестовые данные для входа (При желании можете создать новый аккаунт):
+ Тестовые данные для входа в приложение (При желании можете создать новый аккаунт):
 - **Почта**: `test@test.ru`
 - **Пароль**: `qwerty`
+
+ Данные для входа в админ панель (При желании можете создать новый аккаунт):
+- **Почта**: `testadmin@testadmin.testadmin`
+- **Пароль**: `testadmin`
 - [Рабочая версия приложения.apk](https://github.com/ReflectAppTP/documentation/blob/main/releases/MVP%20release/app-release.apk)
 - [Админ панель](https://reflect-app.ru/adminpanel/)
 
