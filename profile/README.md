@@ -17,7 +17,17 @@
 - [Figma-дизайн](https://www.figma.com/design/dE0KhQ4hfYTnrL2yFSSj7Z/Ui-Kit-Reflect?node-id=154-6359&t=fXgTX82SnaZc87E6-0)
 - [UI-kit](https://www.figma.com/design/dE0KhQ4hfYTnrL2yFSSj7Z/Ui-Kit-Reflect?node-id=0-1&p=f&t=fXgTX82SnaZc87E6-0)
 - [YouGile-задачи и управление проектом](https://ru.yougile.com/board/vl6wh1zei692).
-- [Roadmap](https://github.com/ReflectAppTP/documentation/blob/main/Roadmap%20Reflect.pdf)
+
+---
+
+### ПРИЛОЖЕНИЕ 
+ Тестовые данные для входа (При желании можете создать новый аккаунт):
+- **Почта**: `test@test.ru`
+- **Пароль**: `qwerty`
+- [Рабочая версия приложения.apk](https://github.com/ReflectAppTP/documentation/blob/main/releases/MVP%20release/app-release.apk)
+- [Админ панель](https://reflect-app.ru/adminpanel/)
+
+---
 
 ### Документация проекта
 - [Предпроектное исследование.pdf](https://github.com/ReflectAppTP/documentation/blob/main/Предпроектное%20исследование.pdf)
@@ -31,11 +41,14 @@
 - [Тестовая документация](https://drive.google.com/drive/u/0/folders/1A94hOkDlxu2A1HoNl8z5ybGdHt92-YMH)
 
 - **New** [Курсовая работа](https://github.com/ReflectAppTP/documentation/blob/main/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0/%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0.pdf)
+- [Roadmap](https://github.com/ReflectAppTP/documentation/blob/main/Roadmap%20Reflect.pdf)
+- [Брендбук](https://github.com/ReflectAppTP/documentation/blob/main/BrandbookReflect.pdf)
 
 ### Презентации проекта
 
 - [Презентация технического задания.pdf](https://github.com/ReflectAppTP/documentation/blob/main/Презентация%20ТЗ%20.pdf)
 - [Презентация MVP.pdf](https://github.com/ReflectAppTP/documentation/blob/main/%D0%9F%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F%20MVP.pdf)
+- **New** [Презентация для защиты](https://docs.google.com/presentation/d/1QvBVgmnwgyPhLyeWd4HMAIJR4SpzQEamsaF5BQ7YLwk/edit?slide=id.g35d98ef658c_2_94#slide=id.g35d98ef658c_2_94)
 
 
 ### Видео защиты проекта
